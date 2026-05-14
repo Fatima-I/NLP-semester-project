@@ -1,5 +1,5 @@
 streamlit
-torch==2.1.0
+torch==2.9.0
 transformers
 huggingface_hub
 joblib
