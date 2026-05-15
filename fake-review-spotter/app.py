@@ -107,7 +107,7 @@ st.markdown("---")
 
 # Load model
 model, tokenizer, max_len = load_model()
-st.success("✅ Model ready!", icon="✅")
+# st.success("✅ Model ready!", icon="✅")
 
 # Sample buttons
 st.markdown("**Try a sample:**")
